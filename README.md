@@ -2,9 +2,9 @@
 
 ## i'm looking for a SWE internship (vn based)
 - objectives:
-    - **solidify** what i've learnt.
+    - **apply** what i've learnt.
     - **explore** more.
-    - **contribute what i can**.
+    - **contribute**.
 - here is my [CV]() and [portfolio]().
 - <n-trang@outlook.com>
 
