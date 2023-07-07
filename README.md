@@ -5,7 +5,9 @@
 
 ## `my-precious`
 
-`apps`
+`programing`
+
+`creative`
 
 `study-notes`
 
