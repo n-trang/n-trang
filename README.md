@@ -1,14 +1,13 @@
 # hello world 👋, i'm trang
 
+## my-precious
+
 ## i'm looking for a SWE internship (vn based)
 - objectives:
-    - **apply** what i've learnt.
-    - **explore** more.
-    - **contribute**.
+    - **apply** 
+    - **explore** 
+    - **contribute**
 - here is my [CV]() and [portfolio]().
 - <n-trang@outlook.com>
 
-## selected-big-girl-want-job-projedies
-
-## my-precious
 
