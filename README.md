@@ -1,10 +1,9 @@
 **`hi world, i'm trang :)`**
 
 `✍ apps`
-| name | links                            | what is it?                       | tech stack                                   | skills             |
-| :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----------------- |
-| TPWK | [demo]() /  [code]() / [notes]() | it is a fan project to have a dan | `html`, `css`, `apis`, `captitalism`, `love` | insanely skillful. |
-|      |                                  |                                   |                                              |                    |
+| xx  | yyy |
+| --- | --- |
+| aa  | bb  |
 
 `🤷‍♀️ study-notes`
 | xx  | yyy |
@@ -24,3 +23,12 @@
     - **contribute**
 - more details in my [cover letter](), [CV](), and [portfolio]().
 
+<!-- | name | links                            | what is it?                       | tech stack                                   | skills |
+| :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----- |
+| TPWK | [demo](),  [code](), [notes]() | it is a fan project to have a dan. and thanks for asking it's passion! | `html`, `css`, `apis`, `captitalism`, `love` | insanely skillful.  |
+|      |                                  |                                   |                                              |        | -->
+
+| name                                    | what is it?                                                                                        | tech stack              | skills            |
+| :-------------------------------------- | :------------------------------------------------------------------------------------------------- | :---------------------- | :---------------- |
+| TPWK ([demo](), [code](), [notes]()) | this is some techinal details about everything. And here is another sentence. And btw it's passion | ` htlm, css, javascipt` | insanely skillful |
+|                                         |                                                                                                    |                         |                   |
