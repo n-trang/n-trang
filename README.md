@@ -1,4 +1,4 @@
-## `hello world 👋. my name is trang.`
+## `hello world 👋, my name is trang`
 - [blog ↗]()
 - [photos ↗]()
 - [videos ↗]()
@@ -9,7 +9,7 @@
 
 `study-notes`
 
-## `i'm looking for a SWE internship (viet nam based)`
+## `i'm looking for a SWE internship`
 - objectives
     - **apply** 
     - **explore** 
