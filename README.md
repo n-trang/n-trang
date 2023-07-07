@@ -1,5 +1,7 @@
 # `hello world 👋, 
-my name is Trang. i like making stuffs. like when you've made something really nice, you feel good. when you've made somthing not that good, there's a resonable-self-back-pat saying you've tried, and that documentation was shiet anyway, and you don't need that feature anyway.
+my name is Trang. i like making stuffs.
+
+like when you've made something really nice, you feel good. when you've made somthing not that good, there's a resonable-self-back-pat saying you've tried, and that documentation was shiet anyway.
 
 the medium for making could be anything: photos, apps, videos. maybe jokes?
 
