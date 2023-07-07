@@ -9,6 +9,9 @@
   |---|---|
   |aa|bb|
 - [blog ↗](), [photos ↗](), [videos ↗]()
+
+---
+
 **🕵️‍♀️ i'm looking for a SWE internship**
 - objectives
     - **apply** 
