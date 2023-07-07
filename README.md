@@ -5,9 +5,10 @@
   
 **`my-precious`**
 
-`#programing`
+`programing`
 
-`#study-notes`
+`study-notes`
+
 **`i'm looking for a SWE internship`**
 - objectives
     - **apply** 
