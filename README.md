@@ -1,6 +1,6 @@
 # hello world 👋, i'm trang
 
-## my-precious
+`my-precious`
 
 ## i'm looking for a SWE internship (vn based)
 - objectives:
