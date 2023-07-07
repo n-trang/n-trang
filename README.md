@@ -1,5 +1,5 @@
 **👋 hello world  my name is trang**
-- [blog ↗](), [photos ↗](), [videos ↗]()
+
 - apps
   | xx|yyy|
   |---|---|
@@ -8,6 +8,7 @@
   | xx|yyy|
   |---|---|
   |aa|bb|
+- [blog ↗](), [photos ↗](), [videos ↗]()
 **🕵️‍♀️ i'm looking for a SWE internship**
 - objectives
     - **apply** 
