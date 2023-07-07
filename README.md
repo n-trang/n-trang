@@ -1,10 +1,10 @@
 # hello world 👋, i'm trang
 
-## looking for SWE internship
+## i'm looking for a SWE internship
 - objectives:
-    - hi
-    - how are you
-    - i'm fine
+    - **solidify what i've learnt**: 
+    - **learn more, and explore the tech scence**
+    - **contribute what i can** 
 - here is my [CV]() and [portfolio]().
 - <n-trang@outlook.com>
 
