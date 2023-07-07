@@ -1,9 +1,10 @@
 **`hi world, i'm trang :)`**
 
 `✍ apps`
-| xx  | yyy |
-| --- | --- |
-| aa  | bb  |
+| name | links                            | what is it?                       | tech stack                                   | skills             |
+| :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----------------- |
+| TPWK | [demo]() /  [code]() / [notes]() | it is a fan project to have a dan | `html`, `css`, `apis`, `captitalism`, `love` | insanely skillful. |
+|      |                                  |                                   |                                              |                    |
 
 `🤷‍♀️ study-notes`
 | xx  | yyy |
@@ -23,7 +24,3 @@
     - **contribute**
 - more details in my [cover letter](), [CV](), and [portfolio]().
 
-| name | links                            | what is it?                       | tech stack                                   | skills |
-| :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----- |
-| TPWK | [demo]() /  [code]() / [notes]() | it is a fan project to have a dan | `html`, `css`, `apis`, `captitalism`, `love` | insanely skillful.  |
-|      |                                  |                                   |                                              |        |
