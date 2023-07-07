@@ -7,9 +7,10 @@
 |                                      |                                                                                                    |                         |                   |
 
 `🤷‍♀️ study-notes`
-| xx  | yyy |
-| --- | --- |
-| aa  | bb  |
+| [TPWK]()       | `html, css javascript` | This is how we do                                                   |
+| -------------- | ---------------------- | ------------------------------------------------------------------- |
+| [power-list]() | `python`               | to-do list for the cool doer. in the spirit of everything is a list |
+| [what-now]()   | `python, css, bla`     | This is going down | |                                                              
 
 `⚽ creatives`
   - [blog ↗]()
@@ -29,3 +30,4 @@
 | T--K | [------------------------------) | i-------------------------------! | `------------------------------------------` | i----. |
 |      |                                  |                                   |                                              |        | -->
 
+       
