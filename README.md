@@ -1,7 +1,5 @@
 **👋 hello world  my name is trang**
-- [blog ↗]()
-- [photos ↗]()
-- [videos ↗]()
+- [blog ↗](), [photos ↗](), [videos ↗]()
 - apps
   | xx|yyy|
   |---|---|
