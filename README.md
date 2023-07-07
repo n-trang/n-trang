@@ -1,14 +1,14 @@
 **`hi world, i'm trang :)`**
 
 `✍ apps`
-| xx|yyy|
-|---|---|
-|aa|bb|
+| xx  | yyy |
+| --- | --- |
+| aa  | bb  |
 
 `🤷‍♀️ study-notes`
-| xx|yyy|
-|---|---|
-|aa|bb|
+| xx  | yyy |
+| --- | --- |
+| aa  | bb  |
 
 `⚽ creatives`
   - [blog ↗]()
@@ -23,4 +23,7 @@
     - **contribute**
 - more details in my [cover letter](), [CV](), and [portfolio]().
 
-
+| name | links                            | what is it?                       | tech stack                                   | skills |
+| :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----- |
+| TPWK | [demo]() /  [code]() / [notes]() | it is a fan project to have a dan | `html`, `css`, `apis`, `captitalism`, `love` | insanely skillful.  |
+|      |                                  |                                   |                                              |        |
