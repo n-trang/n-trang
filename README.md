@@ -1,9 +1,9 @@
-**`hello world 👋, my name is trang`**
+**hello world 👋, my name is trang**
 - [blog ↗]()
 - [photos ↗]()
 - [videos ↗]()
   
-**`my-precious`**
+**my-precious**
 
 - `programing`
   
@@ -12,7 +12,7 @@
   |aa|bb|
 - `study-notes`
 
-**`i'm looking for a SWE internship`**
+**i'm looking for a SWE internship**
 - objectives
     - **apply** 
     - **explore** 
