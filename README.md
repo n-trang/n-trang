@@ -1,7 +1,7 @@
 ## `hello world 👋. my name is trang.`
 - [blog ↗]()
-- photos ↗
-- videos ↗
+- [photos ↗]()
+- [videos ↗]()
 
 ## `my-precious`
 
