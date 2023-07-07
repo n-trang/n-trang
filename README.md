@@ -2,9 +2,9 @@
 
 ## `my-precious`
 
-### `projects`
+`apps`
 
-### `learning`
+`study-notes`
 
 ## i'm looking for a SWE internship (vn based)
 - objectives:
