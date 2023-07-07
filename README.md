@@ -1,10 +1,10 @@
 **`hi world, i'm trang :)`**
 
 `✍ apps`
-| xx  | yyy |
-| --- | --- |
-| aa  | bb  |
-
+| name                                 | what is it?                                                                                        | tech stack              | skills            |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------- | :---------------------- | :---------------- |
+| TPWK ([demo](), [code](), [notes]()) | this is some techinal details about everything. And here is another sentence. And btw it's passion | ` htlm, css, javascipt` | insanely skillful |
+|                                      |                                                                                                    |                         |                   |
 `🤷‍♀️ study-notes`
 | xx  | yyy |
 | --- | --- |
@@ -25,10 +25,6 @@
 
 <!-- | name | links                            | what is it?                       | tech stack                                   | skills |
 | :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----- |
-| TPWK | [demo](),  [code](), [notes]() | it is a fan project to have a dan. and thanks for asking it's passion! | `html`, `css`, `apis`, `captitalism`, `love` | insanely skillful.  |
+| T--K | [------------------------------) | i-------------------------------! | `------------------------------------------` | i----. |
 |      |                                  |                                   |                                              |        | -->
 
-| name                                    | what is it?                                                                                        | tech stack              | skills            |
-| :-------------------------------------- | :------------------------------------------------------------------------------------------------- | :---------------------- | :---------------- |
-| TPWK ([demo](), [code](), [notes]()) | this is some techinal details about everything. And here is another sentence. And btw it's passion | ` htlm, css, javascipt` | insanely skillful |
-|                                         |                                                                                                    |                         |                   |
