@@ -5,7 +5,7 @@
 |---|---|
 |aa|bb|
 
-`💔 study-notes`
+`🤷‍♀️ study-notes`
 | xx|yyy|
 |---|---|
 |aa|bb|
