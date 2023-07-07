@@ -1,6 +1,6 @@
 # hello world 👋, i'm trang
 
-## i'm looking for a SWE internship
+## i'm looking for a SWE internship (vn based)
 - objectives:
     - **solidify** what i've learnt.
     - **explore** more.
