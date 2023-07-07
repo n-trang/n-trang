@@ -1,4 +1,4 @@
-# `hello world 👋. my name is trang.`
+## `hello world 👋. my name is trang.`
 - blog
 - photos
 - videos
