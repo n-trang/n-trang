@@ -1,4 +1,4 @@
-# hello world 👋, i'm trang
+# `hello world 👋, i'm trang`
 
 ## `my-precious`
 
@@ -6,7 +6,7 @@
 
 `study-notes`
 
-## i'm looking for a SWE internship (vn based)
+## `i'm looking for a SWE internship (viet nam based)`
 - objectives:
     - **apply** 
     - **explore** 
