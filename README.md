@@ -2,16 +2,14 @@
 - [blog ↗]()
 - [photos ↗]()
 - [videos ↗]()
-  
-**💚 my-precious**
-
-- `programing`
-  
+- apps
   | xx|yyy|
   |---|---|
   |aa|bb|
-- `study-notes`
-
+- study notes
+  | xx|yyy|
+  |---|---|
+  |aa|bb|
 **🕵️‍♀️ i'm looking for a SWE internship**
 - objectives
     - **apply** 
