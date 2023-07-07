@@ -1,21 +1,21 @@
-**`hi world, i'm trang`**
+**`hi world, i'm trang :)`**
 
-`✍apps`
+`✍ apps`
 | xx|yyy|
 |---|---|
 |aa|bb|
 
-`💔study-notes`
+`💔 study-notes`
 | xx|yyy|
 |---|---|
 |aa|bb|
 
-`⚽creatives`
+`⚽ creatives`
   - [blog ↗]()
   - [photos ↗]()
   - [videos ↗]()
 
-`✨i'm looking for a SWE internship`
+`✨ i'm looking for a SWE internship`
 - objectives
     - **apply**
     - **explore** 
