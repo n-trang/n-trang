@@ -7,7 +7,7 @@
 `study-notes`
 
 ## `i'm looking for a SWE internship (viet nam based)`
-- objectives:
+- objectives
     - **apply** 
     - **explore** 
     - **contribute**
