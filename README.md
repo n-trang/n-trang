@@ -1,6 +1,10 @@
 # hello world 👋, i'm trang
 
-`my-precious`
+## `my-precious`
+
+### `projects`
+
+### `learning`
 
 ## i'm looking for a SWE internship (vn based)
 - objectives:
