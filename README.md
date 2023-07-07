@@ -15,7 +15,7 @@
   - [photos ↗]()
   - [videos ↗]()
 
-`✨ i'm looking for a SWE internship`
+**`✨ i'm looking for a SWE internship`**
 - i'm not desparate, i'm taking my sweet time, <n-trang@outlook.com>
 - objectives
     - **apply**
