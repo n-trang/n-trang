@@ -1,6 +1,7 @@
 # hello world 👋, i'm trang
 - objective: 
-- here is my [CV]() and [portfolio](). 💫: <n-trang@outlook.com>
+- looking for SWE internship. here is my [CV]() and [portfolio]().
+- shoot me an email, about anything really. i wanna feel important. <n-trang@outlook.com>
 
 ## selected-big-girl-want-job-projects
 
