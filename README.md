@@ -11,7 +11,7 @@
     - **apply** 
     - **explore** 
     - **contribute**
-- here is my [CV]() and [portfolio]().
-- <n-trang@outlook.com>
+- i write more into the details in my [cover letter](). here is my [CV](), and [portfolio]().
+- mail me: <n-trang@outlook.com>
 
 
