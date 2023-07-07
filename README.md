@@ -6,7 +6,10 @@
 **`my-precious`**
 
 - `programing`
-
+  
+  | xx|yyy|
+  |---|---|
+  |aa|bb|
 - `study-notes`
 
 **`i'm looking for a SWE internship`**
