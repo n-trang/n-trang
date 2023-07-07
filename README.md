@@ -9,15 +9,12 @@
   |---|---|
   |aa|bb|
 - [blog ↗](), [photos ↗](), [videos ↗]()
-
----
-
-**🕵️‍♀️ i'm looking for a SWE internship**
-- objectives
+- i'm looking for a SWE internship**
+  - objectives
     - **apply** 
     - **explore** 
     - **contribute**
-- more details in my [cover letter](), [CV](), and [portfolio]().
+  - more details in my [cover letter](), [CV](), and [portfolio]().
 - 📧: <n-trang@outlook.com>
 
 
