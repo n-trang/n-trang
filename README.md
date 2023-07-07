@@ -1,4 +1,4 @@
-`hi world, i'm trang`
+**`hi world, i'm trang`**
 
 `apps`
 | xx|yyy|
