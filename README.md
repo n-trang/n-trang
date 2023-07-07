@@ -7,8 +7,6 @@
 
 `programing`
 
-`creative`
-
 `study-notes`
 
 ## `i'm looking for a SWE internship (viet nam based)`
