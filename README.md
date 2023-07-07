@@ -1,11 +1,11 @@
-# Hello world 👋, I'm Trang
+# hello world 👋, i'm trang
 
-## looking-for-swe-internship
-- Objective: 
-- Here is my [CV]() and [portfolio]().
+## `looking-for-swe-internship`
+- objective: 
+- here is my [CV]() and [portfolio]().
 - <n-trang@outlook.com>
 
-## Portfolio
+## selected big girl want job projects
 
-## All projects
+## my-precious
 
