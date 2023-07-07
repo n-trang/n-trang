@@ -3,7 +3,7 @@
 ## i'm looking for a SWE internship
 - objectives:
     - **solidify** what i've learnt.
-    - **learn and explore** more.
+    - **explore** more.
     - **contribute what i can**.
 - here is my [CV]() and [portfolio]().
 - <n-trang@outlook.com>
