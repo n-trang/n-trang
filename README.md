@@ -23,7 +23,10 @@
     - **apply**
     - **explore** 
     - **contribute**
-- more details in my [cover letter](), [CV](), and [portfolio]().
+- more detail:
+  - [cover letter ↗]()
+  - [CV ↗]()
+  - [portfolio ↗]().
 
 <!-- | name | links                            | what is it?                       | tech stack                                   | skills |
 | :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----- |
