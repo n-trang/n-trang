@@ -23,7 +23,7 @@
     - **apply**
     - **explore** 
     - **contribute**
-- more detail:
+- more details:
   - [cover letter ↗]()
   - [CV ↗]()
   - [portfolio ↗]().
