@@ -15,6 +15,8 @@
 | [power-list]() | `python`               | to-do list for the cool doer. in the spirit of everything is a list |
 | [what-now]()   | `python, css, bla`     | This is going down | |                                                              
 
+--- 
+
 **`✨ i'm looking for a SWE internship`**
 - i'm taking my sweet time learning these, i'm not desparate,  <n-trang@outlook.com>.
 - objectives
