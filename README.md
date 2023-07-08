@@ -16,7 +16,7 @@
 | [what-now]()   | `python, css, bla`     | This is going down | |                                                              
 
 **`✨ i'm looking for a SWE internship`**
-- i'm not desparate, i'm taking my sweet time, <n-trang@outlook.com>.
+- i'm taking my sweet time learning these, i'm not desparate,  <n-trang@outlook.com>.
 - objectives
     - apply
     - explore 
