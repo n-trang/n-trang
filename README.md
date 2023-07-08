@@ -24,7 +24,7 @@
     - **explore** 
     - **contribute**
 - more details:
-  - [cover letter and portfoio ↗]()
+  - [cover letter and portfolio ↗]()
   - [CV ↗]()
 
 <!-- | name | links                            | what is it?                       | tech stack                                   | skills |
