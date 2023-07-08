@@ -25,7 +25,7 @@
     - contribute
 - more details:
   - [cover letter and portfolio ↗]()
-  - [CV ↗]()
+  - [cv.pdf ↗]()
 
 <!-- | name | links                            | what is it?                       | tech stack                                   | skills |
 | :--- | :------------------------------- | :-------------------------------- | :------------------------------------------- | :----- |
