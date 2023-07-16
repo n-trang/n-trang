@@ -4,7 +4,7 @@
 
 **`🔨 projects`**
 - [say-it-with-charts]() - A project accopanied with a book
-- [power-doer]() - An TODO app for the  power doers (not me 😔). Everything is a `list`!
+- [power-doer]() - An `python` TODO app for the  power doers (not me 😔). Everything is a `list`!
 - [kraggle-viz]() - I love date
 - [retron]() - A lightweight, efficient, retro-looking Jekyll theme. And Ron is my favorite HP character!
 
