@@ -6,7 +6,7 @@
 - [say-it-with-charts]() - A project accopanied with a book
 - [power-doer]() - An TODO app for power doer (not me 😔). **Everything is a `list`!**
 - [kraggle-viz]() - I love date
-- [retron]() - A lightweight, efficient, reto-looking Jekyll theme. And Ron is my favorite HP character!
+- [retron]() - A lightweight, efficient, retro-looking Jekyll theme. And Ron is my favorite HP character!
 
 **` 🤷‍♀️ learning`**
 - [IBM Information Technology (IT) and Cloud Fundamentals]() - Cloud and on-premise system fundamentals.
