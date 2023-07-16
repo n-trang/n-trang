@@ -10,6 +10,8 @@
 - [retron]() - A retro, clean, lightwiehgt Jekyll theme. And Ron is my favorite HP character!
 
 **` 🤷‍♀️ learning`**
+- [IBM Information Technology (IT) and Cloud Fundamentals]() - Cloud and on-premise system fundamentals.
+- [Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization]() - Launch your career in cloud computing. Prepare for the Microsoft AZ-900 certification exam.
 
 --- 
 
