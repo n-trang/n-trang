@@ -1,7 +1,6 @@
 **`hi world, i'm trang :)`**
   - [blog ↗]()
   - [photos ↗]()
-  - [videos ↗]()
 
 **`🔨 projects`**
 - [say-it-with-charts]() - A project accopanied with a book
