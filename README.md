@@ -15,9 +15,9 @@
 
 --- 
 
-**`✨ i'm looking for a SWE internship`**
+**`✨ i'm looking for a job`**
 - [cover letter and portfolio ↗]()
-- [cv-swe-trang.pdf ↗]()
+- [cv-trang.pdf ↗]()
 
 
        
